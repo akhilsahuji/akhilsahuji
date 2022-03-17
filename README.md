@@ -3,7 +3,7 @@
 <a href="https://twitter.com/akhilsahuji/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akhilsahuji&show_icons=true" />
 </a>
-<a href="https://twitter.com/dims/">
+<a href="https://twitter.com/akhilsahuji/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&hide=html,ruby" />
 </a>
 <!--
