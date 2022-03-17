@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akhilsahuji&show_icons=true" />
 </a>
 <a href="https://twitter.com/akhilsahuji/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&hide=html,ruby,css,scss" />
 </a>
 <!--
 **akhilsahuji/akhilsahuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
