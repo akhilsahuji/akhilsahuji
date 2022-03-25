@@ -1,23 +1,14 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/akhilsahuji/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akhilsahuji&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://twitter.com/akhilsahuji/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&theme=tokyonight&hide=html,ruby,css,scss" />
-</a>
-<!--
-**akhilsahuji/akhilsahuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on personal projects and contributing to open-source.
+- 🌱 I’m currently learning Golang.
+- 🙌 I'm looking for remote Jobs.
+- 👯 I’m looking to collaborate on intersting projects.
+- 💬 Ask me about tech,Golang,java and how to find stuff 
+- 📫 How to reach me: [@akhilsahuji](https://twitter.com/akhilsahuji)
+- 😄 Pronouns: He/Him
+- ⚡
+ - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&theme=tokyonight&hide=html,ruby,css,scss)
+- 🧐Fun fact: I like to help and make new friend so drop by and say hi👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)Fun fact: ...
--->
 
