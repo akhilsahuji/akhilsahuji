@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang.
 - 🙌 I'm looking for remote Jobs.
 - 👯 I’m looking to collaborate on intersting projects.
-- 💬 Ask me about tech,Golang,java and how to find stuff 
+- 💬 Ask me about tech,golang,java and how to find stuff 
 - 📫 How to reach me: [@akhilsahuji](https://twitter.com/akhilsahuji)
 - 😄 Pronouns: He/Him
 - ⚡
