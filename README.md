@@ -9,6 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡
  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&theme=tokyonight&hide=html,ruby,css,scss)
-- �Fun fact: I like make new friend so drop by and say hi👋
 
 
