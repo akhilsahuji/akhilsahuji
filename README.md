@@ -4,7 +4,7 @@ I'm a software developer passionate about open-source projects and creating inno
 
 - **Currently working on:** My personal projects and contributing to open-source initiatives.
 
-- **Currently learning:** Golang and exploring new technologies to enhance my skillset.
+- **Currently learning:** ⌯Go and exploring new technologies to enhance my skillset.
 
 - **Looking to collaborate on:** Interesting and impactful projects that challenge me to grow as a developer.
 
