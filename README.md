@@ -8,6 +8,6 @@
 - 📫 How to reach me: [@akhilsahu_](https://twitter.com/akhilsahu_)
 - 😄 Pronouns: He/Him
 - ⚡
- - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&theme=tokyonight&hide=html,ruby,css,scss)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&theme=tokyonight&hide=html,ruby,css,scss)
 
 
