@@ -11,11 +11,6 @@ I'm a software developer passionate about open-source projects and creating inno
 - **How to reach me:** Feel free to connect with me on [Twitter](https://twitter.com/akhilsahuji) or [Email](akhilsahu.dev@gmail.com) to discuss ideas or opportunities.
 
 ---
-## Normal day in my life should look like this 👇
-![](https://github.com/akhilsahuji/akhilsahuji/blob/e248338a8e8ed0165fc89b10e5f3882d9fe369c5/1674503501462.jpg)
-
-
----
 ### Languages and Tools:  
 Here are some of the technologies and tools I work with:
 
@@ -29,12 +24,6 @@ Here are some of the technologies and tools I work with:
 - Git
 - GitHub
 - VS Code
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilsahuji&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsahuji&theme=tokyonight&layout=compact&hide=html,ruby,css,scss)
 
 ---
 
