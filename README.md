@@ -6,7 +6,7 @@ I'm a software developer passionate about open-source projects and creating inno
 
 - **Currently learning:** ⌯Go and exploring new technologies to enhance my skillset.
 
-- **Looking to collaborate on:** Interesting and impactful projects that challenge me to grow as a developer.
+- **Looking to collaborate on:** Interesting jobs , hackathons and impactful projects that challenge me to grow as a developer.
 
 - **How to reach me:** Feel free to connect with me on [Twitter](https://twitter.com/akhilsahuji) or [Email](akhilsahu.dev@gmail.com) to discuss ideas or opportunities.
 
