@@ -15,12 +15,7 @@ I'm a software developer passionate about open-source projects and creating inno
 Here are some of the technologies and tools I work with:
 
 
-- ⌯Go
-- Java
-- Python
-- JavaScript
-- React
-- Node.js
+- ⌯go
 - Git
 - GitHub
 - VS Code
