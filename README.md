@@ -1,3 +1,3 @@
-I endeavor to build simple, powerful, and performant software.
+# I endeavor to build simple, powerful, and performant software.
 
 
