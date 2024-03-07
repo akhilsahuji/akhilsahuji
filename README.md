@@ -1,3 +1,3 @@
-# Hi 👋,
-## I endeavor to build simple, powerful, and performant software.
+# Hi 👋,I endeavor to build simple, powerful, and performant software.
+
 
