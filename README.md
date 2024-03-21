@@ -1,6 +1,6 @@
 # 
 
-  **I endeavour to build simple, powerful, and performant software.**
+  ### **I endeavour to build simple, powerful, and performant software.**
 
 ## 📝blogs.
 <!-- writing starts -->
