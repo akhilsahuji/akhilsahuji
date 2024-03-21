@@ -3,7 +3,7 @@
  **I endeavor to build simple, powerful, and performant software.**
 
 
-### 📝 Recent Writings
+### 📝 Recent Writing
 <!-- writing starts -->
 
 <!-- writing ends -->
