@@ -1,8 +1,8 @@
 # 👋
-## i am **akhil**.
-## i endeavour to build simple, powerful, and performant software.
+### i am **akhil**.
+### i endeavour to build simple, powerful, and performant software.
 
-## a normal day in my life whould look something like this.
+### a normal day in my life whould look something like this.
 ![image](https://github.com/akhilsahuji/akhilsahuji/assets/46328560/b03b54be-40d2-476b-b14f-018d592fa82a)
 
 
