@@ -1,4 +1,5 @@
-# 👋
+# hello. ![dancing-gopher](https://media.tenor.com/500rWqut3sMAAAAi/party-gopher.gif)
+
 ### i am **akhil**.
 ### i endeavour to build simple, powerful, and performant software.
 
