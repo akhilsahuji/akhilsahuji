@@ -10,5 +10,4 @@
 ## 📝recent blogs.
 <!-- writing starts -->
 * [who am i ?](https://akhilsahuji.github.io/blog/page/about/) - Wed, 03 Jan 2024
-* [How this blog works ?](https://akhilsahuji.github.io/blog/post/2023-01-16-first-post/) - Mon, 16 Jan 2023
 <!-- writing ends -->
