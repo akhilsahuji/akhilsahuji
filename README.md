@@ -9,4 +9,6 @@
 
 ## 📝recent blogs.
 <!-- writing starts -->
+* [Linux On External Hard Drive.](https://akhilsahuji.github.io/blog/post/run-linux/) - Wed, 26 Jun 2024
+* [who am i ?](https://akhilsahuji.github.io/blog/page/about/) - Wed, 03 Jan 2024
 <!-- writing ends -->
